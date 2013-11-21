@@ -1,0 +1,17 @@
+impliment a tax calculator
+class for bill operation
+class for calculatin tax
+type of bill and amount from user
+2 type finished goods asd 14% csd 4%, grossary bill 8%
+
+protocols/inheritance
+dynamic typing 
+8-10 files
+
+crt a protocl tax 
+1 mthod clclte tax
+ sprt protocl for asd and csd
+bill class does printing. total bill,tax,
+calculate class to call calclt method and use the values from main program
+
+
